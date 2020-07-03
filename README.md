@@ -3,7 +3,7 @@
 > #### <cite>-Dan Zarella</cite>
 
 <p align="center">
-  <img width="400" height="250" src="https://contentsquare.com/wp-content/uploads/2020/04/cap-animated-transparency.gif" alt="Customer Analytics">
+  <img width="400" height="300" src="https://contentsquare.com/wp-content/uploads/2020/04/cap-animated-transparency.gif" alt="Customer Analytics">
   </p>
   
 <p align="center">
