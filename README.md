@@ -11,7 +11,7 @@ Image reference: [1]
 </p>
 
 # CustomerAnalytics
-Finding data insights based on Customer Analytics
+Finding data insights based on Customer Data.
 
 ## About Dataset
 
